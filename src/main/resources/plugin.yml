@@ -1,0 +1,7 @@
+name: JoinAndQuit
+version: '${project.version}'
+main: fr.frenchguys.joinandquit.JoinAndQuit
+author: FrenchGuys
+website: https://www.voltmc.fr
+depend:
+  - ActionBarAPI

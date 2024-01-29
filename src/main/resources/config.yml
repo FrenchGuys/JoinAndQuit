@@ -1,0 +1,45 @@
+# JoinAndQuit plugin configuration
+
+# Join settings
+Join:
+  # Enable or disable sending the join popup
+  joinPop: true  # If true, the popup is sent; if false, the popup is not sent
+  # Join message displayed in the popup (use %player% to insert the player's name)
+  joinMessage: "&7&l[&a&l+&7&l] &a%player%"  # %player% will be replaced with the player's name
+  # Duration in seconds for how long the popup remains displayed
+  duration: 30  # Duration of the popup in seconds
+
+# Leave settings
+Leave:
+  # Enable or disable sending the Leave popup
+  LeavePop: true  # If true, the popup is sent; if false, the popup is not sent
+  # Leave message displayed in the popup (use %player% to insert the player's name)
+  LeaveMessage: "&7&l[&c&l-&7&l] &c%player%"  # %player% will be replaced with the player's name
+  # Duration in seconds for how long the popup remains displayed
+  duration: 30  # Duration of the popup in seconds
+
+# First join settings
+FirstJoin:
+  # Message displayed in the popup for the joining player
+  PlayerMessage: "&e&l[&6&l!!!&e&l] &e%player% &6has joined the server for the first time!"  # %player% will be replaced with the player's name
+  # Enable or disable sending the FirstJoin popup
+  FirstJoinPop: true  # If true, the popup is sent; if false, the popup is not sent (Message for the player only)
+  # Duration in seconds for how long the popup remains displayed
+  duration: 60  # Duration of the popup in seconds
+
+# Default settings
+Default:
+  # Enable or disable the usage of Minecraft's default join & leave message
+  DefaultJoin: false  # If true, Minecraft's default join message is used; otherwise, the custom message is used
+  DefaultLeave: false  # If true, Minecraft's default leave message is used; otherwise, the custom message is used
+
+  # JOIN THE DISCORD
+  # ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡟⠁⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠈⢹⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢸⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡇⠄⠄⠄⢠⣴⣾⣵⣶⣶⣾⣿⣦⡄⠄⠄⢸⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡇⠄⠄⢀⣾⣿⣿⢿⣿⣿⣿⣿⣿⣿⡄⠄⠄⢸⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡇⠄⠄⢸⣿⣿⣧⣀⣼⣿⣄⣠⣿⣿⣿⠄⠄⢸⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡇⠄⠄⠘⠻⢷⡯⠛⠛⠛⠛⢫⣿⠟⠛⠄⠄⢸⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+  # ⣿⣿⣿⡇⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄...⢸⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
+# ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ DISCORD.GG/ZJWRUYFFD4
